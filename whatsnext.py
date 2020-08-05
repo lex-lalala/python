@@ -19,7 +19,7 @@ def start():
                      import whatsnext.py
                 elif cmd == 'q':
                       print("\nThank You for using this program, have a nice and chilling day :p") # credits hahaha
-                      print("\nMade by lexlalala")
+                      print("\nMade by lex-lalala")
                       break            
 value = input("tv shows OR movies: ")  #enter a category
 if value == "movies":  #category: movies                   
